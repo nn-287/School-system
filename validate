@@ -1,0 +1,7 @@
+validate(string $name, int $password)
+{
+       if( $this-> name=$name && $this->password=$password)
+       {
+                 echo "Welcome to school system";
+       }
+ }
